@@ -90,6 +90,7 @@ li {
 
 .out-of-stock-img {
   opacity: 0.5;
+  background-color: red;
 }
 
 p {
